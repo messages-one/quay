@@ -1,5 +1,4 @@
 
-
 ### integrate quay.io and github
 
     we have mapped the quay.io repo to our github repo named quay
